@@ -1,0 +1,17 @@
+body {
+    background-color: #009688;
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+
+.search-box span {
+    color: #009688;
+}
+
+#query-container a h3.list-group-item-heading {
+    color: #009688;
+}
+
+#query-container a.list-group-item {
+    margin-bottom: 8px;
+}
