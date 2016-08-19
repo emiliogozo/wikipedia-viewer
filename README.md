@@ -2,7 +2,7 @@
 
 Search and view wikipedia articles
 
-View on [CodePen](http://codepen.io/emiliogozo/full/YWdPYK)
+View on [CodePen](http://codepen.io/emiliogozo/pen/xOmgWX)
 
 ### Technologies used:
 - HTML
